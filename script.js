@@ -28,6 +28,7 @@ const handleYesClick = () => {
     "Go Nouvelle-Zélande pour voir l'endroit où a été tourné LOTR !",
     "Petite visite des studios hp à London ?",
     "Allons nous faire un date à Hakkodate !",
+    "Go shopping"
     // "Cook a romantic dinner together",
     // "Go for a moonlit walk on the beach",
     // "Have a picnic in the park",
